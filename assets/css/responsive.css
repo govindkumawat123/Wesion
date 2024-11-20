@@ -1,0 +1,221 @@
+@media screen and (max-width: 1399px) {
+  .ct_tree_shapew_img img {
+    position: absolute;
+    top: 20px;
+    left: -19px;
+    width: 100%;
+    max-width: 316px;
+    z-index: 99;
+    height: 361px;
+    transform: rotate(0deg);
+  }
+  .ct_token_tabs .nav {
+    position: relative;
+    top: -34px;
+  }
+  .ct_tree_shapew_img2 img {
+    top: 40%;
+    max-width: 310px;
+    transform: translateY(-50%);
+  }
+
+  .ct_top_29_relative {
+    position: relative;
+    top: -29px;
+  }
+  .ct_tree_shapew_img3 img {
+    bottom: 43px;
+    top: auto;
+    left: -13px;
+  }
+}
+@media screen and (max-width: 1199px) {
+  .ct_fs_128 {
+    font-size: 80px;
+    line-height: 120px;
+  }
+  .ct_boosting_tabs .nav-link {
+    font-size: 20px;
+  }
+  .ct_tree_shapew_img img {
+    position: absolute;
+    top: 47px;
+    left: -19px;
+    width: 100%;
+    max-width: 257px;
+    z-index: 99;
+    height: 397px;
+    transform: rotate(0deg);
+  }
+  .ct_token_tabs .nav {
+    position: relative;
+    top: -20px;
+  }
+  .ct_tree_shapew_img2 img {
+    top: 45%;
+    max-width: 248px;
+  }
+  .ct_top_29_relative {
+    top: -21px;
+  }
+  .ct_tree_shapew_img3 img {
+    bottom: 77px;
+    top: auto;
+    left: -13px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .ct_fs_128 {
+    font-size: 60px;
+    line-height: 120px;
+  }
+  .ct_flex_wrap_991 {
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  .ct_tree_shapew_img {
+    display: none;
+  }
+  .ct_token_tabs {
+    display: none;
+  }
+  .ct_place_content_start_res_991 {
+    place-content: start;
+  }
+  .ct_grid_tokenomics {
+    flex-direction: column;
+    display: flex;
+  }
+  .ct_poistion_card_top_670 {
+    transform: unset;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  #chart-container {
+    height: 400px !important;
+  }
+}
+@media screen and (max-width: 767px) {
+  .ct_mt_res_0_767 {
+    margin-top: 0px;
+  }
+  .ct_fs_36 {
+    font-size: 32px;
+  }
+  .ct_mt_12_res_767 {
+    margin-top: 12px !important;
+  }
+  .ct_discord_box {
+    padding: 12px;
+    gap: 6px;
+  }
+  .ct_grid_item_2 {
+    display: flex;
+    flex-direction: column;
+    gap: 79px;
+    position: relative;
+  }
+  .ct_left_line_design,
+  .ct_right_line_dotted_design,
+  .ct_middle_line_design {
+    display: none;
+  }
+  /* .ct_verticle_line_shape_res {
+    position: relative;
+    background-image: url(../img/verticle_line.png);
+  } */
+  .ct_verticle_line_shape_res {
+    display: block;
+  }
+  .ct_flex_2_res_345 {
+    display: flex;
+    align-items: self-start;
+    padding-inline: 15px;
+    justify-content: center;
+  }
+  .ct_verticle_line_shape_res img {
+    /* position: absolute; */
+    max-height: calc(100vh - 88px);
+  }
+  .ct_grid_item_2 {
+    margin-top: 32px;
+  }
+  .ct_boosting_tabs .nav-link {
+    font-size: 17px;
+    line-height: 30px;
+  }
+  .ct_boosting_tabs ul#myTab .nav-item .nav-link {
+    height: 144px;
+  }
+  .ct_place_content_start_res {
+    place-content: start;
+  }
+  .ct_left_dot_design_shape {
+    position: relative;
+  }
+  .ct_left_dot_design_shape:before {
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    background-color: #fff;
+    left: -27px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .ct_left_dot_design_shape:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 10px;
+    height: 5px;
+    background: #fff;
+    left: -9px;
+  }
+}
+@media screen and (max-width: 575px) {
+  .ct_fs_128 {
+    font-size: 40px;
+    line-height: 120px;
+  }
+  .ct_spin_token img {
+    max-width: 200px;
+    margin-top: -107px;
+  }
+  .ct_top_minus_78 {
+    margin-top: -38px;
+  }
+
+  .ct_res_text_justify {
+    text-align: justify;
+  }
+  .ct_fs_20 {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .ct_boosting_tabs .nav-link {
+    font-size: 18px;
+    line-height: 30px;
+  }
+}
+@media screen and (max-width: 520px) {
+  .ct_boosting_tabs .nav-link {
+    font-size: 12px;
+    line-height: 24px;
+  }
+  .ct_boosting_tabs ul#myTab .nav-item .nav-link {
+    height: auto;
+  }
+}
+@media screen and (max-width: 440px) {
+  .ct_boosting_tabs ul#myTab .nav-item .nav-link {
+    height: 100px;
+  }
+}
+@media screen and (max-width: 388px) {
+  .ct_boosting_tabs ul#myTab .nav-item .nav-link {
+    height: 120px;
+  }
+}
